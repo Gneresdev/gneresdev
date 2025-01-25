@@ -11,7 +11,6 @@
 
 ## Ranking das linguagens mais utilizadas por mim!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gneresdev&layout=compact)
 
 ## Sigo estudando para me tornar um desenvolver de qualidade.
 
