@@ -3,6 +3,7 @@
 - 🎓 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no ENIAC. 3º Semestre!
 - 😄 Pronomes: Ele/Dele
 - 🌎 Brasileiro, PT-EN.
+- ❤️ Apaixonado por tecnologia, jiu-jitsu e basquete!
 -  Aqui no meu Github, você vai encontrar meus projetos, estudos, e acompanhar minha evolução como desenvolvedor/programador!
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-neres-timoteo-5092b4322)
