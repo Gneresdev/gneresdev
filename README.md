@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gustavo! 👋
 
-- 🎓 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no ENIAC. 3º Semestre!
+- 🎓 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no ENIAC. 4º Semestre!
 - 😄 Pronomes: Ele/Dele
 - 🌎 Brasileiro, PT-EN.
 - ❤️ Apaixonado por tecnologia, jiu-jitsu e basquete!
