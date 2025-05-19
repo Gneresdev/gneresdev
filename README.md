@@ -14,7 +14,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gneresdev&layout=compact)
 
-## Sigo estudando para me tornar um desenvolver de qualidade.
+## Sigo estudando para me tornar um desenvolvedor de qualidade.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Neres-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
