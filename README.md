@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gustavo! 👋
 
-- 🎓 Atualmente estou estudando Engenharia de Software na Cruzeiro do Sul. 1º Semestre!
+- 🎓 Atualmente estou estudando Engenharia de Software na Cruzeiro do Sul. 2º Semestre!
 - 😄 Pronomes: Ele/Dele
 - 🌎 Brasileiro, PT-EN.
 - ❤️ Apaixonado por tecnologia, jiu-jitsu e basquete!
