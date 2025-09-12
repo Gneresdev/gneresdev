@@ -4,11 +4,7 @@
 - 😄 Pronomes: Ele/Dele
 - 🌎 Brasileiro, PT-EN.
 - ❤️ Apaixonado por tecnologia, jiu-jitsu e basquete!
--  Aqui no meu Github, você vai encontrar meus projetos, estudos, e acompanhar minha evolução como desenvolvedor/programador!
-
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-neres-timoteo-5092b4322)
-
-![](https://github-readme-stats.vercel.app/api?username=gneresdev&show_icons=true&theme=onedark)
+-  Aqui no meu Github, você vai encontrar meus projetos, estudos, e acompanhar minha evolução como desenvolvedor/programador
 
 ## Ranking das linguagens mais utilizadas por mim!
 
